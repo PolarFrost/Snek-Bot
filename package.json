@@ -1,0 +1,8 @@
+{
+  "name": "Snek-Bot",
+  "version": "1.0.0",
+  "description": "A Multipurpose discord bot for general moderation",
+  "main": "bot.js",
+  "author": "R. Andrew Sorensen",
+  "dependencies": {}
+}
